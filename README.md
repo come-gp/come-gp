@@ -1,16 +1,15 @@
-## Hi there 👋
+# Introduction of myself
+- 👋 Hi, I’m @come-gp
+- 👀 I’m interested in IT / Sports / VideoGames / Mathematics / Art
+- 🌱 I’m currently learning IT in IUT Grand Ouest Normandie
+- 📫 How to reach me :  come.gardie.potier@etu.unicaen.fr
 
-<!--
-**come-gp/come-gp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# The languages ​​I learn at the moment:
+![C](https://img.shields.io/badge/Langage-C-blue)
+![Java](https://img.shields.io/badge/Langage-Java-red)
+![HTML](https://img.shields.io/badge/Langage-HTML-orange)
+![CSS](https://img.shields.io/badge/Langage-CSS-blueviolet)
+![JavaScript](https://img.shields.io/badge/Langage-JavaScript-yellow)
+![SQL](https://img.shields.io/badge/Langage-SQL-green)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
