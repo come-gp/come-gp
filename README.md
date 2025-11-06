@@ -11,5 +11,7 @@
 ![CSS](https://img.shields.io/badge/Langage-CSS-blueviolet)
 ![JavaScript](https://img.shields.io/badge/Langage-JavaScript-yellow)
 ![SQL](https://img.shields.io/badge/Langage-SQL-green)
+![PHP](https://img.shields.io/badge/Langage-PHP-blue)
+
 
 
